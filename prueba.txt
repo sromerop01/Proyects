@@ -1,1 +1,3 @@
-Prueba de un archivo txt para agregar a github
+Pruebas en un archivo txt para agregar en github
+
+Santiago Romero
